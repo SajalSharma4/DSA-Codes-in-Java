@@ -1,5 +1,3 @@
-package Stack_Queue;
-
 import java.util.NoSuchElementException;
 
 public class CircularQueue {
